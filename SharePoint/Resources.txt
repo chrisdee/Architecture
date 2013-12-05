@@ -1,0 +1,11 @@
+SharePoint Server Architecture Diagrams and Templates
+
+URLs:
+
+-- SharePoint Planning and Architecture Resources : Visio Diagrams --
+
+http://sharemypoint.in/2009/02/04/sharepoint-planning-and-architecture-resources-visio-diagrams
+
+-- Technet | Technical diagrams (SharePoint Server 2013) --
+
+http://technet.microsoft.com/en-us/sharepoint/fp123594.aspx
